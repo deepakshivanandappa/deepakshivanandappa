@@ -7,9 +7,5 @@ metadata:
     role: Software Engineer
     environment: Earth
 spec:
-  personality:
-    - nerdy: 100%
-    - humor: 75%
-    - caffeine-tolerance: high
   replicas: 1
 ```
